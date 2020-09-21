@@ -1,2 +1,2 @@
-<strong>PHP_OO</strong>
-<h3>Conceitos de orientação objeto</h3>
+<h1>PHP_OO</h1>
+<h4>Conceitos de orientação objeto</h4>
